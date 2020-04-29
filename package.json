@@ -1,0 +1,7 @@
+{
+    "name": "@stochaztic/array-loader",
+    "version": "1.0.0",
+    "author": "@stochaztic",
+    "description": "Babel loader to return content as an array",
+    "license": "MIT"
+  }
